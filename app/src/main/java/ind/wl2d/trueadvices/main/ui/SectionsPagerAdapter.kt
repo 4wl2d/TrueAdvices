@@ -1,4 +1,4 @@
-package ind.wl2d.trueadvices.ui.main
+package ind.wl2d.trueadvices.main.ui
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity

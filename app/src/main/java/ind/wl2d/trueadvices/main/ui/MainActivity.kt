@@ -1,10 +1,10 @@
-package ind.wl2d.trueadvices
+package ind.wl2d.trueadvices.main.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayoutMediator
-import ind.wl2d.trueadvices.ui.main.SectionsPagerAdapter
+import ind.wl2d.trueadvices.R
 import ind.wl2d.trueadvices.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
